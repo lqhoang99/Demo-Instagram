@@ -1,0 +1,18 @@
+.seperate{
+    margin: 0px 16px;
+    height: 28px;
+    float: left;
+}
+.fab{
+
+    float: left;
+}
+.igtext{
+    float: left;
+    margin-top: 7px;
+
+}
+.compenent-header1,.taga, .header1 {
+    width: 360px;
+    height: 36px;
+}
