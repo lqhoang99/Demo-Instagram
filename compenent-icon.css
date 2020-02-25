@@ -1,0 +1,22 @@
+.compenent-icon-sub{
+    display: flex;
+
+}
+.heart-icon{
+    margin-left: 24px;
+}
+.avatar-icon{
+    height: 32px;
+    width: 32px;
+    border-radius: 32px;
+    background-image: url("./avatar-icon.jpg");
+    background-size: cover;
+    background-position: center;
+    margin-left: 24px;
+}
+#icon-avatar{
+    height: 32px;
+    width: 32px;
+    position: absolute;
+    
+}
