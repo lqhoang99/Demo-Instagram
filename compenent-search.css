@@ -1,0 +1,17 @@
+.compenent-search{
+    display: flex;
+    position: absolute;
+}
+.input-tag{
+    font-size: 18px;
+    border: solid 1px rgba(var(--b6a,219,219,219),1);
+    border-radius: 4px;
+    z-index: 0;
+}
+.icon-search{
+    position: absolute;
+    top: 3px;
+    left: 85px;
+    color:  rgba(var(--b6a,219,219,219),1);
+    z-index: 1;
+}
